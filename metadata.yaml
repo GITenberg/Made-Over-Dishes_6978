@@ -1,4 +1,8 @@
 _repo: Made-Over-Dishes_6978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rorer, S. T.
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2036'
     url: http://www.gutenberg.org/2009/agents/2036
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6978#Made-Over-Dishes
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
